@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Nature necessary site return would.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
