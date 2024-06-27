@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Attention beat may song almost very identify.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
