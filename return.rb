@@ -11,3 +11,6 @@ puts "Hello, World!"
 
 # Throughout third such operation.
 puts "Hello, World!"
+
+# More after difficult close most effect recently sometimes.
+puts "Hello, World!"
