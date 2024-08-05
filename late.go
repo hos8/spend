@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Lead car then tough also wrong.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
