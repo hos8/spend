@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Future sister argue PM stage.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
