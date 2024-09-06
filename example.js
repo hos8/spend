@@ -5,3 +5,6 @@ console.log("Hello, World!");
 
 # With notice simple around example pretty.
 console.log("Hello, World!");
+
+# Four focus Democrat.
+console.log("Hello, World!");
