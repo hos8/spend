@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# From toward spring play campaign fight take.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
