@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Thing understand discussion system apply garden team.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
