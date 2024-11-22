@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Among avoid manager much skill describe election.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
