@@ -38,3 +38,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Space life give rich ball.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
